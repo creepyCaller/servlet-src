@@ -1,0 +1,19 @@
+-classpath '/home/kohsuke/ws/gfv3/tp2/api/servlet/target/checkout/target/classes'
+ -encoding
+'ISO-8859-1'
+-protected
+-sourcepath
+'/home/kohsuke/ws/gfv3/tp2/api/servlet/target/checkout/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2008 <a href="http://www.sun.com">Sun Microsystems, Inc.</a>. All Rights Reserved.'
+-charset
+'ISO-8859-1'
+-d
+'/home/kohsuke/ws/gfv3/tp2/api/servlet/target/checkout/target/apidocs'
+-doctitle
+'JavaServlet(TM) Specification 3.0-alpha-1 API'
+-use
+-version
+-windowtitle
+'JavaServlet(TM) Specification 3.0-alpha-1 API'
